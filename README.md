@@ -1,4 +1,4 @@
-# Project-FitnessTracker
+# Project-UserDirectory
 
 ## Link to the application deployed on Heroku
 
