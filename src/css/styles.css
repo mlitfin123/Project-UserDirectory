@@ -1,0 +1,28 @@
+header.jumbotron.jumbotron-fluid {
+    text-align: center;
+    background-color: #06c4ca;
+    color: white;
+    font-family: "Reem Kufi", sans-serif;
+}
+
+header.jumbotron.jumbotron-fluid {
+    border-bottom: 5px solid #ff0000;
+}
+
+header.jumbotron.jumbotron-fluid h3 {
+    font-size: 42px;
+}
+
+header.jumbotron.jumbotron-fluid p {
+    font-size: 18px;
+}
+
+#search-form {
+    font-weight: bold;
+    width: 228px;
+    margin: 0 auto;
+}
+
+.sort {
+    cursor: pointer;
+}
